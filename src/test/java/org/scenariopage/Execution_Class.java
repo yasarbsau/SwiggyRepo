@@ -44,6 +44,7 @@ public class Execution_Class {
 		System.out.println(FailureCount);
 		System.out.println(IgnoreCount);
 		System.out.println(RunCount- FailureCount);
+		System.out.println("new line added");
 
 										
 		
